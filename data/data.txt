@@ -1,0 +1,7 @@
+    [{
+        id: 1,
+        name: 'Kim',
+        location: 'Njoro',
+        NetWorth: '$300M'
+    }
+    ]
